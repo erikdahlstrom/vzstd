@@ -1,2 +1,4 @@
 # vzstd
-Simple v wrapper around libzstd
+Simple v wrapper around the zstd library.
+
+For some examples of how to use see the tests directory. 
